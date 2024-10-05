@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Teaching to Product</title>
+    <link>https://example.com</link> <!-- Replace with your podcast website link if available -->
+    <description>Welcome to "Teaching to Product," the podcast where educators explore the exciting transition into Product Management. If you've spent years in the classroom, developing curriculum, building connections, and solving problems on the fly, you're more ready for Product Management than you think. Join us as we dive into how skills from teaching can translate into leading product teams, building impactful EdTech solutions, and shaping the future of learning. Whether you're an educator considering a career change or a product manager interested in the value of a teaching background, this podcast is here to inspire, inform, and bridge the gap between classrooms and tech.</description>
+    <language>en-us</language>
+    <itunes:author>Erik Sheagren</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://drive.google.com/uc?export=download&id=1muSE1-lV0b1br096NLIedVoRxvha0x1X"/> 
+
+    <item>
+      <title>Why Educators Make Game-Changing Product Managers</title>
+      <link>https://example.com/episodes/episode1</link> <!-- Replace with the link to the episode page if available -->
+      <description>In this episode we deep dive into why teachers make exceptional Product Managers. We'll explore the skills educators bring to the table—like empathy, communication, and problem-solving—that align perfectly with the demands of Product Management. This episode is about breaking down the barriers and showing how a teaching background can be a superpower in leading product teams, building impactful products, and navigating complex challenges. Whether you’re an educator considering a career change or a PM curious about the value educators bring, this discussion will open your eyes to the power of teaching in product development.</description>
+      <pubDate>Mon, 05 Oct 2024 14:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1I1OCAfPnwaebe4ug1-UUhD_he8P9XI6e" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>25:34</itunes:duration>
+      <guid>https://drive.google.com/uc?export=download&id=1I1OCAfPnwaebe4ug1-UUhD_he8P9XI6e</guid>
+    </item>
+
+  </channel>
+</rss>
